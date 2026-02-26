@@ -21,7 +21,7 @@ The goal is to provide stakeholders with a clear visualization of sales trends a
 - Tier 3 locations generate the highest revenue at $472.13K, outperforming Tier 2 ($393.15K) and Tier 1 ($336.40K), challenging the assumption that higher-tier urban markets drive the most value.
 
 ## 🖥️ Preview
-[Blinkit Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/Sunshine-Phone-Sales/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
+[Blinkit Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/BlinkIT-Grocery-Data/blob/main/BLINKIT.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
