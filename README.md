@@ -21,8 +21,8 @@ The goal is to provide stakeholders with a clear visualization of sales trends a
 - Tier 3 locations generate the highest revenue at $472.13K, outperforming Tier 2 ($393.15K) and Tier 1 ($336.40K), challenging the assumption that higher-tier urban markets drive the most value.
 
 ## 🖥️ Preview
-[Blinkit Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/BlinkIT-Grocery-Data/blob/main/BLINKIT.jpg)
->click the image above to see a preview of the final dashboard.
+[Blinkit Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTdjYzMxMDEtYTM2Yy00OTYyLWEyZTAtYjM5NDQ5MWQxNDJhIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
+>The full interactive dashboard is available via the link above.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
